@@ -1,0 +1,43 @@
+#bannerCarousel img{
+    height: 500px;
+}
+.about-title{
+    font-family: cursive;
+    font-weight: bolder;
+}
+.about-brand-name{
+    border-bottom: 2px dashed;
+}
+.about-content{
+    font-family: 'Courier New', Courier, monospace;
+}
+.about-link{
+    border-radius: 2.75rem;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.font-cursive{
+    font-family: cursive;
+}
+.services-section{
+    background-image: url('../img/section-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.font-bolder{
+    font-weight: bolder;
+}
+#services-title{
+    border-bottom: 2px dashed;
+}
+.icons{
+    width: 100px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+}
+.icons a{
+    color: white;
+}
